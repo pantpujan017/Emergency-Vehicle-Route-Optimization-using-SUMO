@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-08-24 21:22:03 by Eclipse SUMO netedit Version v1_20_0+1576-e25eae22153
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <!-- Vehicles, persons and containers (sorted by depart) -->
+    <trip id="t_0" depart="0.00" from="E0" to="E13" via="E3 E4 E7 E14 E12"/>
+    <trip id="t_1" depart="0.00" from="E0" to="E13" via="E3 E4 E5 E6 E12"/>
+    <trip id="t_10" depart="0.00" from="E10" to="-E10" via="E4 E7 E14 -E6 -E11 E9"/>
+    <trip id="t_100" depart="0.00" from="-E2" to="-E10" via="E1 E8 -E4"/>
+    <trip id="t_101" depart="0.00" from="-E1" to="E2" via="-E1 E2"/>
+    <trip id="t_102" depart="0.00" from="-E1" to="E2" via="-E1 E2"/>
+    <trip id="t_103" depart="0.00" from="-E1" to="E2" via="-E1 E2"/>
+    <trip id="t_104" depart="0.00" from="-E1" to="E2" via="-E1 E2"/>
+    <trip id="t_105" depart="0.00" from="-E1" to="E2" via="-E1 E2"/>
+    <trip id="t_106" depart="0.00" from="-E2" to="E13" via="E3 -E9 E11 E6 E12"/>
+    <trip id="t_107" depart="0.00" from="-E2" to="E13" via="E3 -E9 E11 E6 E12"/>
+    <trip id="t_108" depart="0.00" from="-E2" to="E13" via="E3 -E9 E11 E6 E12"/>
+    <trip id="t_109" depart="0.00" from="-E2" to="E13" via="E3 -E9 E11 E6 E12"/>
+    <trip id="t_11" depart="0.00" from="-E16" to="E15" via="-E5 E7 E14"/>
+    <trip id="t_110" depart="0.00" from="-E2" to="E13" via="E3 -E9 E11 E6 E12"/>
+    <trip id="t_111" depart="0.00" from="-E1" to="E2" via="-E1 E2"/>
+    <trip id="t_112" depart="0.00" from="-E1" to="E2" via="-E1 E2"/>
+    <trip id="t_113" depart="0.00" from="-E1" to="E2" via="-E1 E2"/>
+    <trip id="t_114" depart="0.00" from="-E1" to="-E0" via="-E1 -E0"/>
+    <trip id="t_115" depart="0.00" from="-E1" to="-E0" via="-E1 -E0"/>
+    <trip id="t_116" depart="0.00" from="-E2" to="-E0"/>
+    <trip id="t_117" depart="0.00" from="-E2" to="-E0"/>
+    <trip id="t_118" depart="0.00" from="-E2" to="-E0"/>
+    <trip id="t_119" depart="0.00" from="-E2" to="-E0"/>
+    <trip id="t_12" depart="0.00" from="-E15" to="E2" via="-E14 -E7 -E8 -E1"/>
+    <trip id="t_120" depart="0.00" from="-E2" to="E16" via="-E2 E3 E4 E5 E16"/>
+    <trip id="t_121" depart="0.00" from="-E2" to="E16" via="-E2 E3 E4 E5 E16"/>
+    <trip id="t_122" depart="0.00" from="-E2" to="-E10" via="E1 E8 -E4"/>
+    <trip id="t_123" depart="0.00" from="-E2" to="-E10" via="E1 E8 -E4"/>
+    <trip id="t_124" depart="0.00" from="-E2" to="-E10" via="E1 E8 -E4"/>
+    <trip id="t_125" depart="0.00" from="-E2" to="-E10" via="E1 E8 -E4"/>
+    <trip id="t_126" depart="0.00" from="-E2" to="-E10" via="E1 E8 -E4"/>
+    <trip id="t_127" depart="0.00" from="-E15" to="-E10" via="-E6 -E11 E9"/>
+    <trip id="t_128" depart="0.00" from="-E15" to="-E10" via="-E6 -E11 E9"/>
+    <trip id="t_129" depart="0.00" from="-E15" to="-E10" via="-E6 -E11 E9"/>
+    <trip id="t_13" depart="0.00" from="E0" to="-E10" via="E3"/>
+    <trip id="t_130" depart="0.00" from="-E15" to="-E10" via="-E6 -E11 E9"/>
+    <trip id="t_131" depart="0.00" from="-E15" to="-E10" via="-E6 -E11 E9"/>
+    <trip id="t_132" depart="0.00" from="-E13" to="-E0" via="-E12 -E6 -E5 -E8 -E1"/>
+    <trip id="t_133" depart="0.00" from="-E13" to="-E0" via="-E12 -E6 -E5 -E8 -E1"/>
+    <trip id="t_134" depart="0.00" from="-E13" to="-E0" via="-E12 -E6 -E5 -E8 -E1"/>
+    <trip id="t_135" depart="0.00" from="-E13" to="-E0" via="-E12 -E6 -E5 -E8 -E1"/>
+    <trip id="t_136" depart="0.00" from="-E13" to="-E0" via="-E12 -E6 -E5 -E8 -E1"/>
+    <trip id="t_137" depart="0.00" from="E10" to="E16" via="-E9 E11"/>
+    <trip id="t_138" depart="0.00" from="E10" to="E16" via="-E9 E11"/>
+    <trip id="t_139" depart="0.00" from="E10" to="E16" via="-E9 E11"/>
+    <trip id="t_14" depart="0.00" from="-E16" to="E15" via="E6"/>
+    <trip id="t_140" depart="0.00" from="E10" to="E16" via="-E9 E11"/>
+    <trip id="t_141" depart="0.00" from="E10" to="E16" via="-E9 E11"/>
+    <trip id="t_142" depart="0.00" from="E10" to="E16" via="-E9 E11"/>
+    <trip id="t_143" depart="0.00" from="E10" to="E13" via="E4 E7 E14 E12"/>
+    <trip id="t_144" depart="0.00" from="E10" to="E13" via="E4 E7 E14 E12"/>
+    <trip id="t_145" depart="0.00" from="E10" to="E13" via="E4 E7 E14 E12"/>
+    <trip id="t_146" depart="0.00" from="E10" to="E13" via="E4 E7 E14 E12"/>
+    <trip id="t_147" depart="0.00" from="E10" to="E13" via="E4 E7 E14 E12"/>
+    <trip id="t_148" depart="0.00" from="E0" to="E16" via="E1 E8 E7 E14 -E6 -E5 -E4 -E9 E11"/>
+    <trip id="t_149" depart="0.00" from="E0" to="E16" via="E1 E8 E7 E14 -E6 -E5 -E4 -E9 E11"/>
+    <trip id="t_15" type="DEFAULT_CONTAINERTYPE" depart="0.00" color="red" from="E0" to="E13" via="E3 E4 E5 E6 E12"/>
+    <trip id="t_150" depart="0.00" from="E0" to="E16" via="E1 E8 E7 E14 -E6 -E5 -E4 -E9 E11"/>
+    <trip id="t_151" depart="0.00" from="E0" to="E16" via="E1 E8 E7 E14 -E6 -E5 -E4 -E9 E11"/>
+    <trip id="t_152" depart="0.00" from="E0" to="E16" via="E1 E8 E7 E14 -E6 -E5 -E4 -E9 E11"/>
+    <trip id="t_153" depart="0.00" from="E10" to="-E0" via="-E3"/>
+    <trip id="t_154" depart="0.00" from="E10" to="-E0" via="-E3"/>
+    <trip id="t_155" depart="0.00" from="E10" to="-E0" via="-E3"/>
+    <trip id="t_156" depart="0.00" from="E10" to="-E0" via="-E3"/>
+    <trip id="t_157" depart="0.00" from="E10" to="-E0" via="-E3"/>
+    <trip id="t_158" depart="0.00" from="-E15" to="-E10" via="-E6 -E11 E9"/>
+    <trip id="t_159" depart="0.00" from="-E15" to="-E10" via="-E6 -E11 E9"/>
+    <trip id="t_16" depart="0.00" from="E0" to="E13" via="E3 E4 E7 E14 E12"/>
+    <trip id="t_160" depart="0.00" from="-E15" to="-E10" via="-E6 -E11 E9"/>
+    <trip id="t_161" depart="0.00" from="-E15" to="-E10" via="-E6 -E11 E9"/>
+    <trip id="t_162" depart="0.00" from="-E15" to="-E10" via="-E6 -E11 E9"/>
+    <trip id="t_163" depart="0.00" from="-E15" to="-E10" via="-E6 -E11 E9"/>
+    <trip id="t_17" depart="0.00" from="E0" to="E13" via="E3 E4 E7 E14 E12"/>
+    <trip id="t_18" depart="0.00" from="-E15" to="E2" via="-E14 -E7 -E8 -E1"/>
+    <trip id="t_19" depart="0.00" from="-E15" to="E2" via="-E14 -E7 -E8 -E1"/>
+    <trip id="t_2" depart="0.00" from="-E2" to="-E0"/>
+    <trip id="t_20" depart="0.00" from="-E15" to="E2" via="-E14 -E7 -E8 -E1"/>
+    <trip id="t_21" depart="0.00" from="-E15" to="E2" via="-E14 -E7 -E8 -E1"/>
+    <trip id="t_22" depart="0.00" from="-E16" to="E15" via="E6"/>
+    <trip id="t_23" depart="0.00" from="-E16" to="E15" via="E6"/>
+    <trip id="t_24" depart="0.00" from="-E16" to="E15" via="E6"/>
+    <trip id="t_25" depart="0.00" from="-E13" to="-E0" via="-E12 -E6 -E5 -E8 -E1"/>
+    <trip id="t_26" depart="0.00" from="-E13" to="-E0" via="-E12 -E6 -E5 -E8 -E1"/>
+    <trip id="t_27" depart="0.00" from="-E13" to="-E0" via="-E12 -E6 -E5 -E8 -E1"/>
+    <trip id="t_28" depart="0.00" from="-E2" to="-E10" via="E1 E8 -E4"/>
+    <trip id="t_29" depart="0.00" from="-E1" to="E2" via="-E1 E2"/>
+    <trip id="t_3" depart="0.00" from="-E2" to="E13" via="E3 -E9 E11 E6 E12"/>
+    <trip id="t_30" depart="0.00" from="-E1" to="E2" via="-E1 E2"/>
+    <trip id="t_31" depart="0.00" from="-E1" to="E2" via="-E1 E2"/>
+    <trip id="t_32" depart="0.00" from="-E1" to="E2" via="-E1 E2"/>
+    <trip id="t_33" depart="0.00" from="-E1" to="-E0" via="-E1 -E0"/>
+    <trip id="t_34" depart="0.00" from="-E1" to="-E0" via="-E1 -E0"/>
+    <trip id="t_35" depart="0.00" from="-E1" to="-E0" via="-E1 -E0"/>
+    <trip id="t_36" depart="0.00" from="-E1" to="-E0" via="-E1 -E0"/>
+    <trip id="t_37" depart="0.00" from="-E2" to="-E0"/>
+    <trip id="t_38" depart="0.00" from="-E2" to="-E0"/>
+    <trip id="t_39" depart="0.00" from="-E2" to="E16" via="-E2 E3 E4 E5 E16"/>
+    <trip id="t_4" depart="0.00" from="-E2" to="-E10" via="E1 E8 -E4"/>
+    <trip id="t_40" depart="0.00" from="-E2" to="E16" via="-E2 E3 E4 E5 E16"/>
+    <trip id="t_41" depart="0.00" from="-E2" to="E16" via="-E2 E3 E4 E5 E16"/>
+    <trip id="t_42" depart="0.00" from="-E2" to="E16" via="-E2 E3 E4 E5 E16"/>
+    <trip id="t_43" depart="0.00" from="-E15" to="-E10" via="-E6 -E11 E9"/>
+    <trip id="t_44" depart="0.00" from="E0" to="E13" via="E3 E4 E7 E14 E12"/>
+    <trip id="t_45" depart="0.00" from="E0" to="E13" via="E3 E4 E5 E6 E12"/>
+    <trip id="t_46" depart="0.00" from="E0" to="E13" via="E3 E4 E7 E14 E12"/>
+    <trip id="t_47" depart="0.00" from="E0" to="E13" via="E3 E4 E5 E6 E12"/>
+    <trip id="t_48" depart="0.00" from="E10" to="-E10" via="E4 E7 E14 -E6 -E11 E9"/>
+    <trip id="t_49" depart="0.00" from="E10" to="-E10" via="E4 E7 E14 -E6 -E11 E9"/>
+    <trip id="t_5" depart="0.00" from="-E13" to="-E0" via="-E12 -E6 -E5 -E8 -E1"/>
+    <trip id="t_50" depart="0.00" from="E10" to="-E10" via="E4 E7 E14 -E6 -E11 E9"/>
+    <trip id="t_51" depart="0.00" from="E10" to="-E10" via="E4 E7 E14 -E6 -E11 E9"/>
+    <trip id="t_52" depart="0.00" from="E10" to="-E10" via="E4 E7 E14 -E6 -E11 E9"/>
+    <trip id="t_53" depart="0.00" from="-E16" to="E15" via="-E5 E7 E14"/>
+    <trip id="t_54" depart="0.00" from="-E16" to="E15" via="-E5 E7 E14"/>
+    <trip id="t_55" depart="0.00" from="-E16" to="E15" via="-E5 E7 E14"/>
+    <trip id="t_56" depart="0.00" from="-E16" to="E15" via="-E5 E7 E14"/>
+    <trip id="t_57" depart="0.00" from="-E16" to="E15" via="-E5 E7 E14"/>
+    <trip id="t_58" depart="0.00" from="-E15" to="E2" via="-E14 -E7 -E8 -E1"/>
+    <trip id="t_59" depart="0.00" from="-E15" to="E2" via="-E14 -E7 -E8 -E1"/>
+    <trip id="t_6" depart="0.00" from="E10" to="E16" via="-E9 E11"/>
+    <trip id="t_60" depart="0.00" from="-E15" to="E2" via="-E14 -E7 -E8 -E1"/>
+    <trip id="t_61" depart="0.00" from="-E15" to="E2" via="-E14 -E7 -E8 -E1"/>
+    <trip id="t_62" depart="0.00" from="-E15" to="E2" via="-E14 -E7 -E8 -E1"/>
+    <trip id="t_63" depart="0.00" from="E0" to="-E10" via="E3"/>
+    <trip id="t_64" depart="0.00" from="E0" to="-E10" via="E3"/>
+    <trip id="t_65" depart="0.00" from="E0" to="-E10" via="E3"/>
+    <trip id="t_66" depart="0.00" from="E0" to="-E10" via="E3"/>
+    <trip id="t_67" depart="0.00" from="E0" to="-E10" via="E3"/>
+    <trip id="t_68" depart="0.00" from="-E16" to="E15" via="E6"/>
+    <trip id="t_69" depart="0.00" from="-E16" to="E15" via="E6"/>
+    <trip id="t_7" depart="0.00" from="E10" to="E13" via="E4 E7 E14 E12"/>
+    <trip id="t_70" depart="0.00" from="-E16" to="E15" via="E6"/>
+    <trip id="t_71" depart="0.00" from="-E16" to="E15" via="E6"/>
+    <trip id="t_72" depart="0.00" from="-E16" to="E15" via="E6"/>
+    <trip id="t_73" depart="0.00" from="E0" to="E13" via="E3 E4 E7 E14 E12"/>
+    <trip id="t_74" depart="0.00" from="E0" to="E13" via="E3 E4 E7 E14 E12"/>
+    <trip id="t_75" depart="0.00" from="E0" to="E13" via="E3 E4 E7 E14 E12"/>
+    <trip id="t_76" depart="0.00" from="E0" to="E13" via="E3 E4 E7 E14 E12"/>
+    <trip id="t_77" depart="0.00" from="-E15" to="E2" via="-E14 -E7 -E8 -E1"/>
+    <trip id="t_78" depart="0.00" from="-E15" to="E2" via="-E14 -E7 -E8 -E1"/>
+    <trip id="t_79" depart="0.00" from="-E15" to="E2" via="-E14 -E7 -E8 -E1"/>
+    <trip id="t_8" depart="0.00" from="E0" to="E16" via="E1 E8 E7 E14 -E6 -E5 -E4 -E9 E11"/>
+    <trip id="t_80" depart="0.00" from="-E15" to="E2" via="-E14 -E7 -E8 -E1"/>
+    <trip id="t_81" depart="0.00" from="-E2" to="-E0"/>
+    <trip id="t_82" depart="0.00" from="-E2" to="-E0"/>
+    <trip id="t_83" depart="0.00" from="-E2" to="-E0"/>
+    <trip id="t_84" depart="0.00" from="-E2" to="-E0"/>
+    <trip id="t_85" depart="0.00" from="-E2" to="-E0"/>
+    <trip id="t_86" depart="0.00" from="-E15" to="E2" via="-E14 -E7 -E8 -E1"/>
+    <trip id="t_87" depart="0.00" from="-E15" to="E2" via="-E14 -E7 -E8 -E1"/>
+    <trip id="t_88" depart="0.00" from="-E15" to="E2" via="-E14 -E7 -E8 -E1"/>
+    <trip id="t_89" depart="0.00" from="-E15" to="E2" via="-E14 -E7 -E8 -E1"/>
+    <trip id="t_9" depart="0.00" from="E10" to="-E0" via="-E3"/>
+    <trip id="t_90" depart="0.00" from="-E16" to="E15" via="E6"/>
+    <trip id="t_91" depart="0.00" from="-E16" to="E15" via="E6"/>
+    <trip id="t_92" depart="0.00" from="-E16" to="E15" via="E6"/>
+    <trip id="t_93" depart="0.00" from="-E13" to="-E0" via="-E12 -E6 -E5 -E8 -E1"/>
+    <trip id="t_94" depart="0.00" from="-E13" to="-E0" via="-E12 -E6 -E5 -E8 -E1"/>
+    <trip id="t_95" depart="0.00" from="-E13" to="-E0" via="-E12 -E6 -E5 -E8 -E1"/>
+    <trip id="t_96" depart="0.00" from="-E2" to="-E10" via="E1 E8 -E4"/>
+    <trip id="t_97" depart="0.00" from="-E2" to="-E10" via="E1 E8 -E4"/>
+    <trip id="t_98" depart="0.00" from="-E2" to="-E10" via="E1 E8 -E4"/>
+    <trip id="t_99" depart="0.00" from="-E2" to="-E10" via="E1 E8 -E4"/>
+</routes>
