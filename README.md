@@ -55,7 +55,7 @@ Adjust the simulation configuration and traffic light logic as needed to fit dif
 - main.py: The main script that initializes the simulation and controls the traffic lights.
 - sumo.sumocfg: The SUMO configuration file that sets up the traffic simulation environment.
 - README.md: This file, providing an overview of the project.
-- 
+  
 **Future Work**
   
 - Enhanced Vehicle Detection: Integrating more sophisticated vehicle detection techniques using computer vision or sensor data.
